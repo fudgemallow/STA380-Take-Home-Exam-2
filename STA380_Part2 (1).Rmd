@@ -1,6 +1,6 @@
 ---
 title: "STA380 Part-2"
-author: "Shubhada Kapre (EID-sk55489)"
+author: "Prathyusha Vedulla(pv6269), Shubhada Kapre(sk55489), Vivek Dhulipalla(vd6543)"
 date: "`r Sys.Date()`"
 output: pdf_document
 ---
@@ -8,6 +8,8 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+https://github.com/fudgemallow/STA380-Take-Home-Exam-2/blob/main/STA380_Part2%20(1).Rmd
 
 ### Probability Practice
 #### Part A
