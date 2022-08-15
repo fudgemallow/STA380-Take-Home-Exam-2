@@ -8,6 +8,7 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+# Link to Github: https://github.com/fudgemallow/STA380-Take-Home-Exam-2/edit/main/STA380_Part2%20(3).Rmd
 
 **Prathyusha Vedulla(pv6269), Shubhada Kapre(sk55489), Vivek Dhulipalla(vd6543)**
 
@@ -210,7 +211,7 @@ df$time<-strptime(df$timestamp, "%Y-%m-%d")
 plot(df$time, df$boarding, type = "l")
 ```
 
-* To get an idea of what the pattern looks over the 3-month period, when we plot the time-series boarding data we notice that there is a significant slump in boarding during the last week of October which is consistent with the Thanksgiving and Christmas holidays. We can attribute this decline in ridership to students visiting their families during the holidays.
+* To get an idea of what the pattern looks over the 3-month period, when we plot the time-series boarding data we notice that there is a significant slump in boarding during the end of November to mid-December which is consistent with the Thanksgiving and Christmas holidays. We can attribute this decline in ridership to students visiting their families during the holidays.
 
 ## Portfolio Modelling
 
