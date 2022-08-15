@@ -9,7 +9,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-https://github.com/fudgemallow/STA380-Take-Home-Exam-2/blob/main/STA380_Part2%20(1).Rmd
+# Link to github : https://github.com/fudgemallow/STA380-Take-Home-Exam-2/blob/main/STA380_Part2%20(1).Rmd
 
 ### Probability Practice
 #### Part A
